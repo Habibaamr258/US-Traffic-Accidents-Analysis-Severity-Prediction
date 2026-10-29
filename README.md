@@ -1,5 +1,4 @@
 # US-Traffic-Accidents-Analysis-Severity-Prediction
-# US Traffic Accidents Analysis & Severity Prediction
 
 ## Project Overview
 This project analyzes US traffic accidents to identify the key factors influencing accident severity and traffic disruption duration.
