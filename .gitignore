@@ -1,0 +1,14 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+*.pyc
+*.pkl
+*.joblib
+
+.DS_Store
+Thumbs.db
+
+US_Accidents_March23.csv
